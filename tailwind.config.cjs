@@ -22,6 +22,7 @@ module.exports = {
       'cyan-300': '#AFEAFF',
       'black': '#000',
       'white': '#FFF',
+      'transparent': 'transparent',
     },
     extend: {
       fontFamily: {
